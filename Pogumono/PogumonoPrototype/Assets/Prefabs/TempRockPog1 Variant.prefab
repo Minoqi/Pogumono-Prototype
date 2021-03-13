@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3148829153631199073
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2715900486798294016, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: def
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2715900486798294016, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: attk
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2715900486798294016, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: defFocusBonus
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2715900486798294016, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: spdFocusBonus
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2715900486798294016, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: currentStatTimer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2715900486798294016, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: currentHappinessTimer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257126887250410449, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6426728557624398044, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 973848f3804cc054599def879a8b1aae, type: 3}
+    - target: {fileID: 6426728557624398044, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6426728557624398044, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6426728557624398044, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6900371689640587263, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
+      propertyPath: m_Name
+      value: TempRockPog1 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aba7e4e2933a42446aa5c1f691daf3be, type: 3}
